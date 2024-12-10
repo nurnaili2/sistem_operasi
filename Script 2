@@ -1,0 +1,12 @@
+Welcome to Cloud Shell! Type 'help' to get started.
+To set your Cloud Platform project in this session use gcloud config set project [PROJECT_ID]"
+nurnaili balqis@cloudshell:"$ nano latihanl.sh
+nurnaili.balqis@cloudshell:"$ cat latihani.sh
+#!/bin/bash
+echo "Buat direktori latihanscript dan file coba
+echo "=========================================="
+mkdir
+latihanscript ed
+latihanscript/
+touch coba
+nurnaili balqis@cloudshell:"$
